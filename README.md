@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Sujeet 👋
+- 🎓 B.E. Computer Engineering graduate
+- 💻 Python & Django developer
+- 🌱 Currently improving my backend and API integration skills
+- 🚀 Projects:
+  - [Weather Forecast Web App](your-link)
+  - 📫 Reach me: imsujit109@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/sujeetkumar-singh-31a782266](https://linkedin.com/in/sujeetkumar-singh-31a782266)
 
 <!--
 **Sujeet11/Sujeet11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
