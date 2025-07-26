@@ -3,7 +3,7 @@
 - 💻 Python & Django developer
 - 🌱 Currently improving my backend and API integration skills
 - 🚀 Projects:
-  - [Weather Forecast Web App](weather-app-jx1d.onrender.com)
+  - [Weather Forecast Web App](https://weather-app-jx1d.onrender.com)
   - 📫 Reach me: imsujit109@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/sujeetkumar-singh-31a782266](https://linkedin.com/in/sujeetkumar-singh-31a782266)
 
